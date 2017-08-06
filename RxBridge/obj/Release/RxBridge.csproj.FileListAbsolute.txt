@@ -1,0 +1,12 @@
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\RxBridge.dll
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\RxBridge.pdb
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\Bridge.Collections.dll
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\Bridge.dll
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\Bridge.Html5.dll
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\Bridge.xml
+D:\home\darby\lurium\external\RxBridge\RxBridge\bin\Release\Bridge.Html5.xml
+D:\home\darby\lurium\external\RxBridge\RxBridge\obj\Release\RxBridge.csprojResolveAssemblyReference.cache
+D:\home\darby\lurium\external\RxBridge\RxBridge\obj\Release\RxBridge.dll
+D:\home\darby\lurium\external\RxBridge\RxBridge\obj\Release\RxBridge.pdb
+D:\home\darby\lurium\external\RxBridge\bin\Release\RxBridge.dll
+D:\home\darby\lurium\external\RxBridge\bin\Release\RxBridge.pdb
